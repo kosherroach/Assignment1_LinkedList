@@ -1,0 +1,85 @@
+/*
+
+ Test Case 1:
+ Enter the author of this code: Author A
+ Author A is the creator.
+ 50 40 10 20 30
+ The Top of the List
+ 30
+ The Removal of the head
+ 50 40 10 20
+ Check Contains Function:
+ Yes
+ Check isEmpty Function:
+ No
+ 
+ Test Case 2:
+ Enter the author of this code: Author B
+ Author B is the creator.
+ 21 532 24 35 45
+ The Top of the List
+ 45
+ The Removal of the head
+ 21 532 24 35
+ Check Contains Function:
+ Yes: found
+ Check isEmpty Function:
+ No
+ 
+ Test Case 3:
+ Enter the author of this code: Author 3
+ Author 3 is the creator.
+ 504 444 23 2 330
+ The Top of the List
+ 330
+ The Removal of the head
+ 504 444 23 2
+ Check Contains Function:
+ Yes
+ Check isEmpty Function:
+ No
+ 
+ Test Case 4:
+ Enter the author of this code: Autho 4
+ Autho 4 is the creator.
+ 520 30 102 220 12
+ The Top of the List
+ 12
+ The Removal of the head
+ 520 30 102 220
+ Check Contains Function:
+ Yes
+ Check isEmpty Function:
+ No
+ 
+ Test Case 5:
+ Enter the author of this code: Author 4
+ Author 4 is the creator.
+ 540 4044 102 201 3033
+ The Top of the List
+ 3033
+ The Removal of the head
+ 540 4044 102 201
+ Check Contains Function:
+ No
+ Check isEmpty Function:
+ No
+ 
+ Test Case 6:
+ Node: 6
+ 
+ Test Case 7:
+ Node: 9
+ 
+ Test Case 8:
+ Node: 77
+ 
+ Test Case 9:
+ Node:
+ 
+ Test Case 10:
+ Node:
+ 
+ Program ended with exit code: 0
+ */
+
